@@ -71,5 +71,5 @@ https://laravel.com/docs/7.x
 #### vue.js公式ドキュメント
 https://jp.vuejs.org/v2/guide/index.html
 
-#### php公式ドキュメント
+#### php公式ドキュメント!!
 https://www.php.net/manual/ja/index.php
